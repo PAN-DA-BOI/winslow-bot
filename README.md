@@ -1,5 +1,5 @@
 # winslow-bot
-discord bot for the minecraft server
+discord bot for the Beehive SMP server
 ```
 git clone https://github.com/PAN-DA-BOI/winslow-bot.git
 cd winslow-bot
